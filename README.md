@@ -7,8 +7,8 @@
 ### Models
 Created the following four models:
 - NN using pytorch using ReLu activation
-- NN from scratch using ReLu activation (Xavier activations)
+- NN from scratch using ReLu activation (Xavier initializations)
 - NN using pytorch using sigmoid activation
-- NN from scratch using sigmoid activation (Xavier activations)
+- NN from scratch using sigmoid activation (Xavier initializations)
 
 Used batch norm helped boost accuracy a lot.
